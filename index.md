@@ -18,17 +18,16 @@ I am British and Canadian, which has given me a lifelong interest in internation
 We study search and trust frictions in international sourcing, and whether the rapid growth of "social commerce" in lower-income countries can alleviate them. Guided by a dynamic model of relational contracting, we run a field experiment with 1,862 garment firms in Senegal, randomly matching them to suppliers in Türkiye (search) and varying information about supplier type (adverse selection) and incentives (moral hazard). New supplier connections expand access to foreign varieties and quality, but the additional information about supplier trustworthiness is necessary for building lasting and profitable relationships. Structural estimates imply that both adverse selection and moral hazard substantially limit trade.
 </div>
 <div id="senegal-conferences" style="display:none; margin-top: 4px;">
-Junior Trade Workshop [LSE/Warwick] (September 2024)<br>
-Cities and Development Workshop [Harvard University] (October 2024)<br>
-NEUDC (October 2024)<br>
+Junior Trade Workshop (LSE/Warwick, Sep 2024)<br>
+Cities and Development Workshop (Harvard, Oct 2024)<br>
+NEUDC (Oct 2024)<br>
 NBER SI International Trade and Investment (July 2025)<br>
-Institutions, Trade, and Development [University of Alberta] (September 2025)<br>
-EGC/IGC Conference on Firms, Trade, and Development Workshop [Yale] (November 2025)<br>
-Theoretical Research in Economic Development [Geneva School of Economics] (May 2026)<br>
+Institutions, Trade, and Development (U Alberta, Sept 2025)<br>
+EGC/IGC Conference on Firms, Trade, and Development (Yale, Nov 2025)<br>
+Theoretical Research in Economic Development (GSE, May 2026)<br>
 NBER SI Development (July 2026)
 </div>
-Latest Version: December 2025
-
+Latest Version: December 2025<br><br>
 
 **[Quantifying the Sensitivity of Quantitative Trade Models](https://edwardwiles.github.io/storage/papers/gravity_robustness.pdf)**
 <p style="margin-top: 0; margin-bottom: 0;">with Habib Ansari and <a href="https://economics.mit.edu/people/faculty/dave-donaldson" target="_blank">Dave Donaldson</a></p>
@@ -42,8 +41,7 @@ The core ingredient of modern quantitative trade models is cross-country heterog
 <div id="gravity-conferences" style="display:none; margin-top: 4px;">
 Princeton Summary Trade Workshop (June 2026)
 </div>
-Latest Version: June 2026
-
+Latest Version: June 2026<br><br>
 
 ---
 
