@@ -1,8 +1,8 @@
-I am an economist studying how contracts and firm-to-firm relationships shape trade and development. My work uses a combination of quantitative models, administrative data, and field experiments.
+I am an economist studying how contracts and firm-to-firm relationships shape trade and development. My work uses a combination of quantitative models, administrative data, and field experiments.<br>
 
-I received a PhD in Economics from MIT in May 2025. Prior to that, I completed Bachelor's and Master's degrees at the London School of Economics.
+I received a PhD in Economics from MIT in May 2025. Prior to that, I completed Bachelor's and Master's degrees at the London School of Economics.<br>
 
-I am British and Canadian, which has given me a lifelong interest in international football, queuing, and apologising.
+I am British and Canadian, which has given me a lifelong interest in international football, queuing, and apologising.<br><br>
 
 ---
 
@@ -52,7 +52,7 @@ Latest Version: June 2026<br><br>
 <details>
 <summary>Abstract</summary>
 Most trade takes place in buyer–seller relationships that expand gradually over time. A growing body of empirical evidence suggests that this pattern may reflect the importance of relational contracting: when formal enforcement is limited, continued trade itself provides incentives. Using rich firm-to-firm trade data from India, I show that value traded in a typical relationship approximately doubles over the course of a year, that this growth curve is flatter in states with stronger contract enforcement, and that this growth curve is invariant to firm size. These facts mean that adjustments to trade shocks are inherently dynamic, as firms must build trust with new suppliers. To quantify the aggregate consequences of these micro-level adjustments, I develop a dynamic multi-country general-equilibrium model that embeds optimal relational contracts within a tractable Eaton–Kortum-style framework, generating endogenous growth in traded quantities as relationships age. Using the microdata to estimate the model, I compare the dynamic vs static welfare consequences of a landmark Indian domestic integration reform.
-</details>
+</details><br>
 
 
 **Using Digital Records to Unlock Trade Credit**  
@@ -60,7 +60,7 @@ Most trade takes place in buyer–seller relationships that expand gradually ove
 <details>
 <summary>Abstract</summary>
 Trade credit—suppliers allowing buyers to purchase inventory now and pay later—is central to firm-to-firm commerce but depends on trust. In settings with limited contract enforcement, suppliers often ration credit to unfamiliar buyers, limiting firm growth and creating barriers to entry. We study whether firms can use increasingly available mobile payments records to signal creditworthiness to potential suppliers or lenders---an open finance model---and how this affects relationship development and firm- and market-level outcomes. We collaborate with a large mobile money provider in Cote d'Ivoire to build and evaluate a tool for firms to provided verified disclosures, as well as a fintech specializing in trade credit to study how specialized intermediaries use such records. We run an RCT with 2,000 retailers in the packaged drinks sector, where we randomize whether firms can access the new disclosure tool and whether we connect them with the specialized trade credit lender. Pilot results show that the ability to do verified disclosures increases supplier willingness to extend credit by 20 percentage points. The full RCT is active, with outcomes of interest including credit access, supplier relationships, product varieties, prices, stockouts, and profits and sales.
-</details>
+</details><br>
 
 
 **Trade, Deindustrialization, and Service-Led Growth**  
@@ -68,7 +68,7 @@ Trade credit—suppliers allowing buyers to purchase inventory now and pay later
 <details>
 <summary>Abstract</summary>
 We examine the impact of trade liberalization on structural change patterns in India. Leveraging district-level variations in sectoral composition, we find that districts with greater tariff reductions experienced larger declines in manufacturing employment shares. By extending Matsuyama's 1992 model of deindustrialization to include a non-tradable service sector, we demonstrate analytically and through simulations that India's observed deindustrialization and service-led growth can be qualitatively attributed to trade liberalization. We aim to structurally estimate the model parameters to quantify the role of trade liberalization in driving these structural changes.
-</details>
+</details><br><br>
 
 ---
 
