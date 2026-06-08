@@ -16,7 +16,7 @@ I am British and Canadian, which has given me a lifelong interest in internation
   <button class="toggle-btn" onclick="toggle('senegal-onesentence', this)">One Sentence Version</button>
 </p>
 <div id="senegal-abstract" style="display:none; margin-top: 4px; text-align: justify;">
-We study search and trust frictions in international sourcing, and whether the rapid growth of "social commerce" in lower-income countries can alleviate them. Guided by a dynamic model of relational contracting, we run a field experiment with 1,862 garment firms in Senegal, randomly matching them to suppliers in Türkiye (search) and varying information about supplier type (adverse selection) and incentives (moral hazard). New supplier connections expand access to foreign varieties and quality, but the additional information about supplier trustworthiness is necessary for building lasting and profitable relationships. Structural estimates imply that both adverse selection and moral hazard substantially limit trade.
+We study search and trust frictions in international sourcing, and whether the rapid growth of "social commerce" in lower-income countries can alleviate them. Guided by a dynamic model of relational contracting, we run a field experiment with 1,862 garment firms in Senegal, randomly matching them to suppliers in Türkiye (search) and varying information about supplier type (adverse selection) and incentives (moral hazard). New supplier connections expand access to foreign varieties and quality, but the additional information about supplier trustworthiness is necessary for building lasting and profitable relationships. Structural estimates imply that both adverse selection and moral hazard substantially limit trade.<br>
 </div>
 <div id="senegal-conferences" style="display:none; margin-top: 4px;">
 <table style="width:100%; border:none; border-collapse:collapse;">
@@ -31,7 +31,7 @@ We study search and trust frictions in international sourcing, and whether the r
 </table>
 </div>
 <div id="senegal-onesentence" style="display:none; margin-top: 4px; text-align: justify;">
-Adverse selection and moral hazard are severe in trade and reinforce each other, but firms in LMICs are increasingly using ``social commerce'' as a decentralized, network-based way to mitigate them. 
+Adverse selection and moral hazard are severe in trade and reinforce each other, but firms in LMICs are increasingly using "social commerce" as a decentralized, network-based way to mitigate them.<br> 
 </div>
 Latest Version: December 2025<br><br>
 
@@ -49,7 +49,7 @@ The core ingredient of modern quantitative trade models is cross-country heterog
 Princeton Summer Trade Workshop (June 2026)
 </div>
 <div id="gravity-onesentence" style="display:none; margin-top: 4px; text-align: justify;">
-The estimates of gains from trade produced by workhorse quantitative trade models are highly sensitive to deviations from the typical maintained assumptions, such as Frechet or Pareto productivity draws.
+The estimates of gains from trade produced by workhorse quantitative trade models are highly sensitive to deviations from the typical maintained assumptions, such as Frechet or Pareto productivity.<br>
 </div>
 Latest Version: June 2026 (substantially revised!)<br><br>
 
