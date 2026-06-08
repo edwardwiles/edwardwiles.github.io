@@ -14,9 +14,11 @@ with *[Deivy Houeix](https://deivyhoueix.com/)*
 <summary>Abstract</summary>
 We study search and trust frictions in international sourcing, and whether the rapid growth of "social commerce" in lower-income countries can alleviate them. Guided by a dynamic model of relational contracting, we run a field experiment with 1,862 garment firms in Senegal, randomly matching them to suppliers in Türkiye (search) and varying information about supplier type (adverse selection) and incentives (moral hazard). New supplier connections expand access to foreign varieties and quality, but the additional information about supplier trustworthiness is necessary for building lasting and profitable relationships. Structural estimates imply that both adverse selection and moral hazard substantially limit trade.
 </details>
+<details>
+<summary>Conferences</summary>
+Junior Trade Workshop [LSE/Warwick] (September 2024), Cities and Development Work [Harvard University] (October 2024), NEUDC (October 2024), NBER SI International Trade and Investment (July 2025), Institutions, Trade, and Development [University of Alberta] (September 2025), EGC/IGC Conference on Firms, Trade, and Development Workshop [Yale] (November 2025), Theoretical Research in Economic Development [Geneva School of Economics] (May 2026), NBER SI Development (July 2026)
+</details>
 Latest Version: December 2025
-Select Conference/Workshop Presentations: NBER SI International Trade and Investment (July 2025), EGC/IGC Conference on Firms, Trade, and Development Workshop (November 2025), Theoretical Research in Economic Development (May 2026), NBER SI Development (July 2026)   
-
 
 **[Quantifying the Sensitivity of Quantitative Trade Models](https://edwardwiles.github.io/storage/papers/gravity_robustness.pdf)**  
 *with Habib Ansari and [Dave Donaldson](https://economics.mit.edu/people/faculty/dave-donaldson)*
@@ -24,8 +26,11 @@ Select Conference/Workshop Presentations: NBER SI International Trade and Invest
 <summary>Abstract</summary>
 The core ingredient of modern quantitative trade models is cross-country heterogeneity in productive capabilities across goods. In workhorse models this heterogeneity is assumed to follow specific functional forms---such as i.i.d. Frechet or Pareto---but little is known about how these models' counterfactual predictions would change under alternative distributional assumptions. We fill this gap by estimating sharp bounds on counterfactuals across all distributions within given neighborhoods of the workhorse model. Importantly, our method only considers distributions that can generate baseline equilibria that exactly match all trade flow data points, and hence reproduce empirical facts such as the amount of openness, the fit of the gravity equation, and the estimated trade elasticity. Our estimated bounds on the gains from trade are wide, even for small departures from the workhorse model: the upper bound is more than four times that of the workhorse model (so trade can be much more valuable than typically thought) and the lower bound is zero (so trade can even generate no gains). Imposing high-level restrictions on the distributions considered---for example, maintaining Frechet/Pareto marginals but relaxing independence, or vice versa---does little to shrink these bounds.
 </details>
+<details>
+<summary>Conferences</summary>
+Princeton Summary Trade Workshop (June 2026)
+</details>
 Latest Version: June 2026
-Select Conference/Workshop Presentations: Princeton Summer Trade Workshop (June 2026)  
 
 ---
 
