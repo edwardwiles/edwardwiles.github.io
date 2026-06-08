@@ -11,8 +11,8 @@ I am British and Canadian, which has given me a lifelong interest in internation
 **[Relational Frictions along the Supply Chain: Evidence from Senegalese Traders](https://edwardwiles.github.io/storage/papers/senegal_traders.pdf)**  
 <p style="margin-top: 0; margin-bottom: 0;">with <a href="https://deivyhoueix.com/" target="_blank">Deivy Houeix</a></p>
 <p style="margin-top: 0; margin-bottom: 4px;">
-  <button onclick="toggle('senegal-abstract', this)">Abstract</button>
-  <button onclick="toggle('senegal-conferences', this)">Conferences</button>
+  <button class="toggle-btn" onclick="toggle('senegal-abstract', this)">Abstract</button>
+  <button class="toggle-btn" onclick="toggle('senegal-conferences', this)">Conferences</button>
 </p>
 <div id="senegal-abstract" style="display:none; margin-top: 4px;">
 We study search and trust frictions in international sourcing, and whether the rapid growth of "social commerce" in lower-income countries can alleviate them. Guided by a dynamic model of relational contracting, we run a field experiment with 1,862 garment firms in Senegal, randomly matching them to suppliers in Türkiye (search) and varying information about supplier type (adverse selection) and incentives (moral hazard). New supplier connections expand access to foreign varieties and quality, but the additional information about supplier trustworthiness is necessary for building lasting and profitable relationships. Structural estimates imply that both adverse selection and moral hazard substantially limit trade.
