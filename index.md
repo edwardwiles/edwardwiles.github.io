@@ -18,15 +18,15 @@ I am British and Canadian, which has given me a lifelong interest in internation
 We study search and trust frictions in international sourcing, and whether the rapid growth of "social commerce" in lower-income countries can alleviate them. Guided by a dynamic model of relational contracting, we run a field experiment with 1,862 garment firms in Senegal, randomly matching them to suppliers in Türkiye (search) and varying information about supplier type (adverse selection) and incentives (moral hazard). New supplier connections expand access to foreign varieties and quality, but the additional information about supplier trustworthiness is necessary for building lasting and profitable relationships. Structural estimates imply that both adverse selection and moral hazard substantially limit trade.
 </div>
 <div id="senegal-conferences" style="display:none; margin-top: 4px;">
-<table style="width:100%; border:none;">
-  <tr><td>Junior Trade Workshop</td><td style="text-align:right;">LSE/Warwick, Sep 2024</td></tr>
-  <tr><td>Cities and Development Workshop</td><td style="text-align:right;">Harvard, Oct 2024</td></tr>
-  <tr><td>NEUDC</td><td style="text-align:right;">Oct 2024</td></tr>
-  <tr><td>NBER SI International Trade and Investment</td><td style="text-align:right;">July 2025</td></tr>
-  <tr><td>Institutions, Trade, and Development</td><td style="text-align:right;">U Alberta, Sept 2025</td></tr>
-  <tr><td>EGC/IGC Conference on Firms, Trade, and Development</td><td style="text-align:right;">Yale, Nov 2025</td></tr>
-  <tr><td>Theoretical Research in Economic Development</td><td style="text-align:right;">GSE, May 2026</td></tr>
-  <tr><td>NBER SI Development</td><td style="text-align:right;">July 2026</td></tr>
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr><td style="padding:0;">Junior Trade Workshop</td><td style="padding:0; text-align:right;">LSE/Warwick, Sep 2024</td></tr>
+  <tr><td style="padding:0;">Cities and Development Workshop</td><td style="padding:0; text-align:right;">Harvard, Oct 2024</td></tr>
+  <tr><td style="padding:0;">NEUDC</td><td style="padding:0; text-align:right;">Oct 2024</td></tr>
+  <tr><td style="padding:0;">NBER SI International Trade and Investment</td><td style="padding:0; text-align:right;">July 2025</td></tr>
+  <tr><td style="padding:0;">Institutions, Trade, and Development</td><td style="padding:0; text-align:right;">U Alberta, Sept 2025</td></tr>
+  <tr><td style="padding:0;">EGC/IGC Firms, Trade, and Development</td><td style="padding:0; text-align:right;">Yale, Nov 2025</td></tr>
+  <tr><td style="padding:0;">Theoretical Research in Economic Development</td><td style="padding:0; text-align:right;">GSE, May 2026</td></tr>
+  <tr><td style="padding:0;">NBER SI Development</td><td style="padding:0; text-align:right;">July 2026</td></tr>
 </table>
 </div>
 Latest Version: December 2025<br><br>
