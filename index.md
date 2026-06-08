@@ -14,7 +14,7 @@ I am British and Canadian, which has given me a lifelong interest in internation
   <button class="toggle-btn" onclick="toggle('senegal-abstract', this)">Abstract</button>
   <button class="toggle-btn" onclick="toggle('senegal-conferences', this)">Conferences</button>
 </p>
-<div id="senegal-abstract" style="display:none; margin-top: 4px;">
+<div id="senegal-abstract" style="display:none; margin-top: 4px; text-align: justify;">
 We study search and trust frictions in international sourcing, and whether the rapid growth of "social commerce" in lower-income countries can alleviate them. Guided by a dynamic model of relational contracting, we run a field experiment with 1,862 garment firms in Senegal, randomly matching them to suppliers in Türkiye (search) and varying information about supplier type (adverse selection) and incentives (moral hazard). New supplier connections expand access to foreign varieties and quality, but the additional information about supplier trustworthiness is necessary for building lasting and profitable relationships. Structural estimates imply that both adverse selection and moral hazard substantially limit trade.
 </div>
 <div id="senegal-conferences" style="display:none; margin-top: 4px;">
@@ -35,7 +35,7 @@ Latest Version: December 2025<br><br>
   <button class="toggle-btn" onclick="toggle('gravity-abstract', this)">Abstract</button>
   <button class="toggle-btn" onclick="toggle('gravity-conferences', this)">Conferences</button>
 </p>
-<div id="gravity-abstract" style="display:none; margin-top: 4px;">
+<div id="gravity-abstract" style="display:none; margin-top: 4px; text-align: justify;">
 The core ingredient of modern quantitative trade models is cross-country heterogeneity in productive capabilities across goods. In workhorse models this heterogeneity is assumed to follow specific functional forms---such as i.i.d. Frechet or Pareto---but little is known about how these models' counterfactual predictions would change under alternative distributional assumptions. We fill this gap by estimating sharp bounds on counterfactuals across all distributions within given neighborhoods of the workhorse model. Importantly, our method only considers distributions that can generate baseline equilibria that exactly match all trade flow data points, and hence reproduce empirical facts such as the amount of openness, the fit of the gravity equation, and the estimated trade elasticity. Our estimated bounds on the gains from trade are wide, even for small departures from the workhorse model: the upper bound is more than four times that of the workhorse model (so trade can be much more valuable than typically thought) and the lower bound is zero (so trade can even generate no gains). Imposing high-level restrictions on the distributions considered---for example, maintaining Frechet/Pareto marginals but relaxing independence, or vice versa---does little to shrink these bounds.
 </div>
 <div id="gravity-conferences" style="display:none; margin-top: 4px;">
