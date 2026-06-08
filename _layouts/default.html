@@ -38,11 +38,16 @@
 function toggle(id, btn) {
   var div = document.getElementById(id);
   var open = div.style.display !== 'none';
-  // close all divs for this paper
   div.parentElement.querySelectorAll('div[id]').forEach(function(d) {
     d.style.display = 'none';
   });
-  if (!open) div.style.display = 'block';
+  div.parentElement.querySelectorAll('button').forEach(function(b) {
+    b.classList.remove('open');
+  });
+  if (!open) {
+    div.style.display = 'block';
+    btn.classList.add('open');
+  }
 }
 </script>
     
