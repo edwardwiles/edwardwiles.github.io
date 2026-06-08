@@ -1,11 +1,3 @@
-# **Edward Wiles**
-
-Academy Scholar  
-[Harvard Academy for International and Area Studies](https://academyscholarsprogram.harvard.edu/)  
-Cambridge, MA USA  
-
-[CV](https://edwardwiles.github.io/storage/cv/EdwardWilesCV.pdf) | [Email](mailto:edward.m.wiles@gmail.com)
-
 I am an economist studying how contracts and firm-to-firm relationships shape trade and development. My work uses a combination of quantitative models, administrative data, and field experiments.
 
 I received a PhD in Economics from MIT in May 2025. Prior to that, I completed Bachelor's and Master's degrees at the London School of Economics.
