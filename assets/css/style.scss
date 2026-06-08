@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+details summary {
+  color: #0066cc;
+  cursor: pointer;
+}
+
+details summary:hover {
+  text-decoration: underline;
+}
