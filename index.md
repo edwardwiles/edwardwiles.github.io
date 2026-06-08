@@ -41,7 +41,7 @@ The core ingredient of modern quantitative trade models is cross-country heterog
 <div id="gravity-conferences" style="display:none; margin-top: 4px;">
 Princeton Summary Trade Workshop (June 2026)
 </div>
-Latest Version: June 2026<br><br>
+Latest Version: June 2026 (substantially revised!)<br><br>
 
 ---
 
