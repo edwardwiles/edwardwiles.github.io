@@ -43,12 +43,14 @@ Latest Version: June 2026
 Most trade takes place in buyer–seller relationships that expand gradually over time. A growing body of empirical evidence suggests that this pattern may reflect the importance of relational contracting: when formal enforcement is limited, continued trade itself provides incentives. Using rich firm-to-firm trade data from India, I show that value traded in a typical relationship approximately doubles over the course of a year, that this growth curve is flatter in states with stronger contract enforcement, and that this growth curve is invariant to firm size. These facts mean that adjustments to trade shocks are inherently dynamic, as firms must build trust with new suppliers. To quantify the aggregate consequences of these micro-level adjustments, I develop a dynamic multi-country general-equilibrium model that embeds optimal relational contracts within a tractable Eaton–Kortum-style framework, generating endogenous growth in traded quantities as relationships age. Using the microdata to estimate the model, I compare the dynamic vs static welfare consequences of a landmark Indian domestic integration reform.
 </details>
 
+
 **Using Digital Records to Unlock Trade Credit**  
 *with [Deivy Houeix](https://deivyhoueix.com/)*
 <details>
 <summary>Abstract</summary>
 Trade credit—suppliers allowing buyers to purchase inventory now and pay later—is central to firm-to-firm commerce but depends on trust. In settings with limited contract enforcement, suppliers often ration credit to unfamiliar buyers, limiting firm growth and creating barriers to entry. We study whether firms can use increasingly available mobile payments records to signal creditworthiness to potential suppliers or lenders---an open finance model---and how this affects relationship development and firm- and market-level outcomes. We collaborate with a large mobile money provider in Cote d'Ivoire to build and evaluate a tool for firms to provided verified disclosures, as well as a fintech specializing in trade credit to study how specialized intermediaries use such records. We run an RCT with 2,000 retailers in the packaged drinks sector, where we randomize whether firms can access the new disclosure tool and whether we connect them with the specialized trade credit lender. Pilot results show that the ability to do verified disclosures increases supplier willingness to extend credit by 20 percentage points. The full RCT is active, with outcomes of interest including credit access, supplier relationships, product varieties, prices, stockouts, and profits and sales.
 </details>
+
 
 **Trade, Deindustrialization, and Service-Led Growth**  
 *with [Tishara Garg](https://tisharagarg.github.io/) and [Shin Kikuchi](https://www.shinnosuke-kikuchi.com/)*
@@ -64,7 +66,6 @@ We examine the impact of trade liberalization on structural change patterns in I
 **[Losing Prosociality in the Quest for Talent? Sorting, Selection, and Productivity in the Delivery of Public Services](https://edwardwiles.github.io/storage/papers/LosingProsociality.pdf)**  
 *with [Nava Ashraf](https://navaashraf.com/), [Oriana Bandiera](https://www.orianabandiera.net/), and [Scott S. Lee](https://my.vanderbilt.edu/slee/)*  
 *American Economic Review 2020, 110(5): 1355–1394*
-
 <details>
 <summary>Abstract</summary>
 We embed a field experiment in a nationwide recruitment drive for a new health care position in Zambia to test whether career benefits attract talent at the expense of prosocial motivation. In line with common wisdom, offering career opportunities attracts less prosocial applicants. However, the trade-off exists only at low levels of talent; the marginal applicants in treatment are more talented and equally prosocial. These are hired, and perform better at every step of the causal chain: they provide more inputs, increase facility utilization, and improve health outcomes including a 25 percent decrease in child malnutrition.
