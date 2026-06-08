@@ -29,17 +29,21 @@ NBER SI Development (July 2026)
 </div>
 Latest Version: December 2025
 
-**[Quantifying the Sensitivity of Quantitative Trade Models](https://edwardwiles.github.io/storage/papers/gravity_robustness.pdf)**  
-*with Habib Ansari and [Dave Donaldson](https://economics.mit.edu/people/faculty/dave-donaldson)*
-<details>
-<summary>Abstract</summary>
+
+**[Quantifying the Sensitivity of Quantitative Trade Models](https://edwardwiles.github.io/storage/papers/gravity_robustness.pdf)**
+<p style="margin-top: 0; margin-bottom: 0;">with Habib Ansari and <a href="https://economics.mit.edu/people/faculty/dave-donaldson" target="_blank">Dave Donaldson</a></p>
+<p style="margin-top: 0; margin-bottom: 4px;">
+  <button class="toggle-btn" onclick="toggle('gravity-abstract', this)">Abstract</button>
+  <button class="toggle-btn" onclick="toggle('gravity-conferences', this)">Conferences</button>
+</p>
+<div id="gravity-abstract" style="display:none; margin-top: 4px;">
 The core ingredient of modern quantitative trade models is cross-country heterogeneity in productive capabilities across goods. In workhorse models this heterogeneity is assumed to follow specific functional forms---such as i.i.d. Frechet or Pareto---but little is known about how these models' counterfactual predictions would change under alternative distributional assumptions. We fill this gap by estimating sharp bounds on counterfactuals across all distributions within given neighborhoods of the workhorse model. Importantly, our method only considers distributions that can generate baseline equilibria that exactly match all trade flow data points, and hence reproduce empirical facts such as the amount of openness, the fit of the gravity equation, and the estimated trade elasticity. Our estimated bounds on the gains from trade are wide, even for small departures from the workhorse model: the upper bound is more than four times that of the workhorse model (so trade can be much more valuable than typically thought) and the lower bound is zero (so trade can even generate no gains). Imposing high-level restrictions on the distributions considered---for example, maintaining Frechet/Pareto marginals but relaxing independence, or vice versa---does little to shrink these bounds.
-</details>
-<details>
-<summary>Conferences</summary>
+</div>
+<div id="gravity-conferences" style="display:none; margin-top: 4px;">
 Princeton Summary Trade Workshop (June 2026)
-</details>
+</div>
 Latest Version: June 2026
+
 
 ---
 
