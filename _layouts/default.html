@@ -51,9 +51,9 @@ function toggle(id, btn) {
 }
 </script>
     
-    <script>
+<script>
   document.querySelectorAll('a').forEach(function(link) {
-    if (link.hostname !== window.location.hostname) {
+    if (link.protocol !== 'mailto:') {
       link.setAttribute('target', '_blank');
     }
   });
