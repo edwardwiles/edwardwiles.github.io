@@ -1,6 +1,6 @@
-I am an economist studying how contracts and firm-to-firm relationships shape trade and development. My work uses a combination of quantitative models, administrative data, and field experiments.<br>
+I am an economist studying how contracts and firm-to-firm relationships shape trade and development. My work uses a combination of quantitative models, administrative data, and field experiments.<br><br>
 
-I received a PhD in Economics from MIT in May 2025. Prior to that, I completed Bachelor's and Master's degrees at the London School of Economics.<br>
+I received a PhD in Economics from MIT in May 2025. Prior to that, I completed Bachelor's and Master's degrees at the London School of Economics.<br><br>
 
 I am British and Canadian, which has given me a lifelong interest in international football, queuing, and apologising.<br><br>
 
@@ -68,7 +68,7 @@ Trade credit—suppliers allowing buyers to purchase inventory now and pay later
 <details>
 <summary>Abstract</summary>
 We examine the impact of trade liberalization on structural change patterns in India. Leveraging district-level variations in sectoral composition, we find that districts with greater tariff reductions experienced larger declines in manufacturing employment shares. By extending Matsuyama's 1992 model of deindustrialization to include a non-tradable service sector, we demonstrate analytically and through simulations that India's observed deindustrialization and service-led growth can be qualitatively attributed to trade liberalization. We aim to structurally estimate the model parameters to quantify the role of trade liberalization in driving these structural changes.
-</details><br><br>
+</details><br>
 
 ---
 
