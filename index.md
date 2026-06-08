@@ -9,7 +9,7 @@ I am British and Canadian, which has given me a lifelong interest in internation
 ### **Working Papers**
 
 **[Relational Frictions along the Supply Chain: Evidence from Senegalese Traders](https://edwardwiles.github.io/storage/papers/senegal_traders.pdf)**  
-with *[Deivy Houeix](https://deivyhoueix.com/)*
+<p style="margin-bottom: 0;">with <a href="https://deivyhoueix.com/" target="_blank">Deivy Houeix</a></p>
 <div style="display: flex; gap: 10px;">
 <details>
 <summary>Abstract</summary>
