@@ -10,24 +10,23 @@ I am British and Canadian, which has given me a lifelong interest in internation
 
 **[Relational Frictions along the Supply Chain: Evidence from Senegalese Traders](https://edwardwiles.github.io/storage/papers/senegal_traders.pdf)**  
 <p style="margin-top: 0; margin-bottom: 0;">with <a href="https://deivyhoueix.com/" target="_blank">Deivy Houeix</a></p>
-<p style="margin-top: 0; margin-bottom: 0;">
-<details style="display: inline-block; vertical-align: top;">
-<summary>Abstract</summary>
-We study search and trust frictions in international sourcing, and whether the rapid growth of "social commerce" in lower-income countries can alleviate them. Guided by a dynamic model of relational contracting, we run a field experiment with 1,862 garment firms in Senegal, randomly matching them to suppliers in Türkiye (search) and varying information about supplier type (adverse selection) and incentives (moral hazard). New supplier connections expand access to foreign varieties and quality, but the additional information about supplier trustworthiness is necessary for building lasting and profitable relationships. Structural estimates imply that both adverse selection and moral hazard substantially limit trade.
-</details>
-  
-<details style="display: inline-block; vertical-align: top;">
-<summary>Conferences</summary>
-  Junior Trade Workshop [LSE/Warwick] (September 2024)
-  Cities and Development Workshop [Harvard University] (October 2024)
-  NEUDC (October 2024)
-  NBER SI International Trade and Investment (July 2025)
-  Institutions, Trade, and Development [University of Alberta] (September 2025)
-  EGC/IGC Conference on Firms, Trade, and Development Workshop [Yale] (November 2025)
-  Theoretical Research in Economic Development [Geneva School of Economics] (May 2026) 
-  NBER SI Development (July 2026)
-</details>
+<p style="margin-top: 0; margin-bottom: 4px;">
+  <button onclick="toggle('senegal-abstract', this)">Abstract</button>
+  <button onclick="toggle('senegal-conferences', this)">Conferences</button>
 </p>
+<div id="senegal-abstract" style="display:none; margin-top: 4px;">
+We study search and trust frictions in international sourcing, and whether the rapid growth of "social commerce" in lower-income countries can alleviate them. Guided by a dynamic model of relational contracting, we run a field experiment with 1,862 garment firms in Senegal, randomly matching them to suppliers in Türkiye (search) and varying information about supplier type (adverse selection) and incentives (moral hazard). New supplier connections expand access to foreign varieties and quality, but the additional information about supplier trustworthiness is necessary for building lasting and profitable relationships. Structural estimates imply that both adverse selection and moral hazard substantially limit trade.
+</div>
+<div id="senegal-conferences" style="display:none; margin-top: 4px;">
+Junior Trade Workshop [LSE/Warwick] (September 2024)<br>
+Cities and Development Workshop [Harvard University] (October 2024)<br>
+NEUDC (October 2024)<br>
+NBER SI International Trade and Investment (July 2025)<br>
+Institutions, Trade, and Development [University of Alberta] (September 2025)<br>
+EGC/IGC Conference on Firms, Trade, and Development Workshop [Yale] (November 2025)<br>
+Theoretical Research in Economic Development [Geneva School of Economics] (May 2026)<br>
+NBER SI Development (July 2026)
+</div>
 Latest Version: December 2025
 
 **[Quantifying the Sensitivity of Quantitative Trade Models](https://edwardwiles.github.io/storage/papers/gravity_robustness.pdf)**  
