@@ -33,6 +33,19 @@
         <p><small>Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
+
+<script>
+function toggle(id, btn) {
+  var div = document.getElementById(id);
+  var open = div.style.display !== 'none';
+  // close all divs for this paper
+  div.parentElement.querySelectorAll('div[id]').forEach(function(d) {
+    d.style.display = 'none';
+  });
+  if (!open) div.style.display = 'block';
+}
+</script>
+    
     <script>
   document.querySelectorAll('a').forEach(function(link) {
     if (link.hostname !== window.location.hostname) {
