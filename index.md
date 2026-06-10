@@ -1,4 +1,4 @@
-I am an economist studying how contracts and firm-to-firm relationships shape trade and development. My work uses a combination of quantitative models, administrative data, and field experiments.<br><br>
+I am an economist studying how contracts and firm-to-firm relationships shape trade and development. My work uses a combination of field experiments, administrative data, and quantitative models.<br><br>
 
 I received a PhD in Economics from MIT in May 2025. Prior to that, I completed Bachelor's and Master's degrees at the London School of Economics.<br><br>
 
