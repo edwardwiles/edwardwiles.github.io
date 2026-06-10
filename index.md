@@ -46,7 +46,9 @@ The core ingredient of modern quantitative trade models is cross-country heterog
 The estimates of gains from trade produced by workhorse quantitative trade models are highly sensitive to deviations from the typical maintained assumptions, such as Frechet or Pareto productivity.<br>
 </div>
 <div id="gravity-conferences" style="display:none; margin-top: 4px;">
-Princeton Summer Trade Workshop (June 2026)
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr><td style="padding:0;">Princeton Summer Trade Workshop</td><td style="padding:0; text-align:right;">June 2026</td></tr>
+</table>
 </div>
 Latest Version: June 2026 (substantially revised!)<br><br>
 
