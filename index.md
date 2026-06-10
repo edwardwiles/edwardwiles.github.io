@@ -90,7 +90,7 @@ Most trade takes place in buyer–seller relationships that expand gradually ove
 </details><br>
 
 
-**Using Digital Records to Unlock Trade Credit**  
+**Trade Credit and Digital Records: Evidence from Cote d'Ivoire**  
 *with [Deivy Houeix](https://deivyhoueix.com/)*
 <details>
 <summary>Abstract</summary>
