@@ -71,7 +71,7 @@ We embed a field experiment in a nationwide recruitment drive for a new health c
 Providing career incentives meaningfully changed who selected into a new health care job in Zambia, delivering substantial improvements in health outcomes.<br>
 </div>
 
-*Awarded the Arrow Award for the best paper published in health economics in English in 2020 by the International Health Economics Association.*
+*Awarded the Arrow Award for the best paper published in health economics in English in 2020 by the International Health Economics Association.*<br><br>
 
 ---
 
