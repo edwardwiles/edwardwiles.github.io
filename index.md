@@ -57,7 +57,7 @@ Latest Version: June 2026 (substantially revised!)<br><br>
 
 ### **Selected Work in Progress**
 
-**The Aggregate Consequences of Relationship Dynamics**  
+**The Aggregate Consequences of Relational Contracting**  
 *with Pulak Ghosh*
 <details>
 <summary>Abstract</summary>
