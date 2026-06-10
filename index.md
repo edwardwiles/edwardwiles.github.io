@@ -31,7 +31,7 @@ We study search and trust frictions in international sourcing, and whether the r
 </table>
 </div>
 <div id="senegal-onesentence" style="display:none; margin-top: 4px; text-align: justify;">
-Adverse selection and moral hazard are severe in trade and reinforce each other, but firms in LMICs are increasingly using "social commerce" as a decentralized, network-based way to mitigate them.<br> 
+Adverse selection and moral hazard are severe in trade and reinforce each other, but firms in LMICs are increasingly using ``social commerce'' as a decentralized, network-based way to mitigate them.<br> 
 </div>
 Latest Version: December 2025<br><br>
 
@@ -52,6 +52,26 @@ Princeton Summer Trade Workshop (June 2026)
 The estimates of gains from trade produced by workhorse quantitative trade models are highly sensitive to deviations from the typical maintained assumptions, such as Frechet or Pareto productivity.<br>
 </div>
 Latest Version: June 2026 (substantially revised!)<br><br>
+
+---
+
+### **Publications**
+
+**[Losing Prosociality in the Quest for Talent? Sorting, Selection, and Productivity in the Delivery of Public Services](https://edwardwiles.github.io/storage/papers/LosingProsociality.pdf)**  
+*with [Nava Ashraf](https://navaashraf.com/), [Oriana Bandiera](https://www.orianabandiera.net/), and [Scott S. Lee](https://my.vanderbilt.edu/slee/)*  
+*American Economic Review 2020, 110(5): 1355–1394*
+<p style="margin-top: 0; margin-bottom: 4px;">
+  <button class="toggle-btn" onclick="toggle('abdl-abstract', this)">Abstract</button>
+  <button class="toggle-btn" onclick="toggle('abdl-onesentence', this)">One Sentence Version</button>
+</p>
+<div id="abdl-abstract" style="display:none; margin-top: 4px; text-align: justify;">
+We embed a field experiment in a nationwide recruitment drive for a new health care position in Zambia to test whether career benefits attract talent at the expense of prosocial motivation. In line with common wisdom, offering career opportunities attracts less prosocial applicants. However, the trade-off exists only at low levels of talent; the marginal applicants in treatment are more talented and equally prosocial. These are hired, and perform better at every step of the causal chain: they provide more inputs, increase facility utilization, and improve health outcomes including a 25 percent decrease in child malnutrition.
+</div>
+<div id="abdl-onesentence" style="display:none; margin-top: 4px; text-align: justify;">
+Providing career incentives meaningfully changed who selected into a new health care job in Zambia, delivering substantial improvements in health outcomes.<br>
+</div>
+
+*Awarded the Arrow Award for the best paper published in health economics in English in 2020 by the International Health Economics Association.*
 
 ---
 
@@ -79,17 +99,3 @@ Trade credit—suppliers allowing buyers to purchase inventory now and pay later
 <summary>Abstract</summary>
 We examine the impact of trade liberalization on structural change patterns in India. Leveraging district-level variations in sectoral composition, we find that districts with greater tariff reductions experienced larger declines in manufacturing employment shares. By extending Matsuyama's 1992 model of deindustrialization to include a non-tradable service sector, we demonstrate analytically and through simulations that India's observed deindustrialization and service-led growth can be qualitatively attributed to trade liberalization. We aim to structurally estimate the model parameters to quantify the role of trade liberalization in driving these structural changes.
 </details><br>
-
----
-
-### **Publications**
-
-**[Losing Prosociality in the Quest for Talent? Sorting, Selection, and Productivity in the Delivery of Public Services](https://edwardwiles.github.io/storage/papers/LosingProsociality.pdf)**  
-*with [Nava Ashraf](https://navaashraf.com/), [Oriana Bandiera](https://www.orianabandiera.net/), and [Scott S. Lee](https://my.vanderbilt.edu/slee/)*  
-*American Economic Review 2020, 110(5): 1355–1394*
-<details>
-<summary>Abstract</summary>
-We embed a field experiment in a nationwide recruitment drive for a new health care position in Zambia to test whether career benefits attract talent at the expense of prosocial motivation. In line with common wisdom, offering career opportunities attracts less prosocial applicants. However, the trade-off exists only at low levels of talent; the marginal applicants in treatment are more talented and equally prosocial. These are hired, and perform better at every step of the causal chain: they provide more inputs, increase facility utilization, and improve health outcomes including a 25 percent decrease in child malnutrition.
-</details>
-
-*Awarded the Arrow Award for the best paper published in health economics in English in 2020 by the International Health Economics Association.*
