@@ -68,7 +68,7 @@ Latest Version: June 2026 (substantially revised!)<br><br>
 We embed a field experiment in a nationwide recruitment drive for a new health care position in Zambia to test whether career benefits attract talent at the expense of prosocial motivation. In line with common wisdom, offering career opportunities attracts less prosocial applicants. However, the trade-off exists only at low levels of talent; the marginal applicants in treatment are more talented and equally prosocial. These are hired, and perform better at every step of the causal chain: they provide more inputs, increase facility utilization, and improve health outcomes including a 25 percent decrease in child malnutrition.
 </div>
 <div id="abdl-onesentence" style="display:none; margin-top: 4px; text-align: justify;">
-Providing career incentives meaningfully changed who selected into a new health care job in Zambia, delivering substantial improvements in health outcomes.<br>
+Contract design not only screens and incentivizes a given pool of agents, but also affects who applies in the first place: emphasizing career benefits for a healthcare job in Zambia made the pool of applicants more talented, leading to large improvements in health outcomes.<br>
 </div>
 <div id="abdl-appendix" style="display:none; margin-top: 4px; text-align: justify;">
 <a href="https://edwardwiles.github.io/storage/papers/LosingProsocialityOnlineAppendix.pdf" target="_blank">Online Appendix</a><br>
