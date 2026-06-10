@@ -23,9 +23,6 @@ Adverse selection and moral hazard are severe in trade and reinforce each other,
 </div>
 <div id="senegal-conferences" style="display:none; margin-top: 4px;">
 <table style="width:100%; border:none; border-collapse:collapse;">
-  <tr><td style="padding:0;">Junior Trade Workshop</td><td style="padding:0; text-align:right;">LSE/Warwick, Sep 2024</td></tr>
-  <tr><td style="padding:0;">Cities and Development Workshop</td><td style="padding:0; text-align:right;">Harvard, Oct 2024</td></tr>
-  <tr><td style="padding:0;">NEUDC</td><td style="padding:0; text-align:right;">Oct 2024</td></tr>
   <tr><td style="padding:0;">NBER SI International Trade and Investment</td><td style="padding:0; text-align:right;">July 2025</td></tr>
   <tr><td style="padding:0;">Institutions, Trade, and Development</td><td style="padding:0; text-align:right;">U Alberta, Sept 2025</td></tr>
   <tr><td style="padding:0;">EGC/IGC Firms, Trade, and Development</td><td style="padding:0; text-align:right;">Yale, Nov 2025</td></tr>
