@@ -13,7 +13,7 @@ I am British and Canadian, which has given me a lifelong interest in internation
 <p style="margin-top: 0; margin-bottom: 4px;">
   <button class="toggle-btn" onclick="toggle('senegal-abstract', this)">Abstract</button>
   <button class="toggle-btn" onclick="toggle('senegal-onesentence', this)">One Sentence Version</button>  
-  <button class="toggle-btn" onclick="toggle('senegal-conferences', this)">Conferences</button>
+  <button class="toggle-btn" onclick="toggle('senegal-conferences', this)">Recent/Upcoming Conferences</button>
 </p>
 <div id="senegal-abstract" style="display:none; margin-top: 4px; text-align: justify;">
 We study search and trust frictions in international sourcing, and whether the rapid growth of "social commerce" in lower-income countries can alleviate them. Guided by a dynamic model of relational contracting, we run a field experiment with 1,862 garment firms in Senegal, randomly matching them to suppliers in Türkiye (search) and varying information about supplier type (adverse selection) and incentives (moral hazard). New supplier connections expand access to foreign varieties and quality, but the additional information about supplier trustworthiness is necessary for building lasting and profitable relationships. Structural estimates imply that both adverse selection and moral hazard substantially limit trade.<br>
@@ -40,7 +40,7 @@ Latest Version: December 2025<br><br>
 <p style="margin-top: 0; margin-bottom: 4px;">
   <button class="toggle-btn" onclick="toggle('gravity-abstract', this)">Abstract</button>
   <button class="toggle-btn" onclick="toggle('gravity-onesentence', this)">One Sentence Version</button>
-  <button class="toggle-btn" onclick="toggle('gravity-conferences', this)">Conferences</button>
+  <button class="toggle-btn" onclick="toggle('gravity-conferences', this)">Recent/Upcoming Conferences</button>
 </p>
 <div id="gravity-abstract" style="display:none; margin-top: 4px; text-align: justify;">
 The core ingredient of modern quantitative trade models is cross-country heterogeneity in productive capabilities across goods. In workhorse models this heterogeneity is assumed to follow specific functional forms---such as i.i.d. Frechet or Pareto---but little is known about how these models' counterfactual predictions would change under alternative distributional assumptions. We fill this gap by estimating sharp bounds on counterfactuals across all distributions within given neighborhoods of the workhorse model. Importantly, our method only considers distributions that can generate baseline equilibria that exactly match all trade flow data points, and hence reproduce empirical facts such as the amount of openness, the fit of the gravity equation, and the estimated trade elasticity. Our estimated bounds on the gains from trade are wide, even for small departures from the workhorse model: the upper bound is more than four times that of the workhorse model (so trade can be much more valuable than typically thought) and the lower bound is zero (so trade can even generate no gains). Imposing high-level restrictions on the distributions considered---for example, maintaining Frechet/Pareto marginals but relaxing independence, or vice versa---does little to shrink these bounds.
@@ -72,8 +72,8 @@ We embed a field experiment in a nationwide recruitment drive for a new health c
 Providing career incentives meaningfully changed who selected into a new health care job in Zambia, delivering substantial improvements in health outcomes.<br>
 </div>
 <div id="abdl-appendix" style="display:none; margin-top: 4px; text-align: justify;">
-[Online Appendix](https://edwardwiles.github.io/storage/papers/LosingProsocialityOnlineAppendix.pdf)<br>
-[Data](https://www.openicpsr.org/openicpsr/project/111683/version/V1/view)<br>
+<a href="https://edwardwiles.github.io/storage/papers/LosingProsocialityOnlineAppendix.pdf" target="_blank">Online Appendix</a><br>
+<a href="https://www.openicpsr.org/openicpsr/project/111683/version/V1/view" target="_blank">Data</a>
 </div>
 
 *Awarded the Arrow Award for the best paper published in health economics in English in 2020 by the International Health Economics Association.*<br><br>
