@@ -19,7 +19,7 @@ I am British and Canadian, which has given me a lifelong interest in internation
 We study search and trust frictions in international sourcing, and whether the rapid growth of "social commerce" in lower-income countries can alleviate them. Guided by a dynamic model of relational contracting, we run a field experiment with 1,862 garment firms in Senegal, randomly matching them to suppliers in Türkiye (search) and varying information about supplier type (adverse selection) and incentives (moral hazard). New supplier connections expand access to foreign varieties and quality, but the additional information about supplier trustworthiness is necessary for building lasting and profitable relationships. Structural estimates imply that both adverse selection and moral hazard substantially limit trade.<br>
 </div>
 <div id="senegal-onesentence" style="display:none; margin-top: 4px; text-align: justify;">
-Adverse selection and moral hazard are severe in trade and reinforce each other, but firms in LMICs are increasingly using ``social commerce'' as a decentralized, network-based way to mitigate them.<br> 
+Adverse selection and moral hazard in trade are severe and reinforce each other, but a large minority of firms in LMICs use ``social commerce'' as a decentralized, network-based way to mitigate them.<br> 
 </div>
 <div id="senegal-conferences" style="display:none; margin-top: 4px;">
 <table style="width:100%; border:none; border-collapse:collapse;">
@@ -41,6 +41,9 @@ Latest Version: December 2025<br><br>
 </p>
 <div id="gravity-abstract" style="display:none; margin-top: 4px; text-align: justify;">
 Modern quantitative trade models emphasize cross-country heterogeneity in productivity across goods as the source of trade and its benefits. In workhorse versions, this heterogeneity is assumed to follow specific functional forms, such as i.i.d. Frechet or Pareto. We provide a systematic exploration of how sensitive the gains from trade estimated from these models are to relaxing this assumption---first, with a new formula for sharp bounds on gains from trade across all possible distributions, and then with a numerical characterization for the case where distributions must be close to the workhorse form.  Importantly, for each candidate distribution we ensure that its implied trade model is consistent with standard estimation methods such as the ability to match all bilateral trade data points and an exogeneity assumption. Our estimated bounds are wide, even for small departures from the canonical model: the maximal gain is about four times larger and the minimal gain is zero. Imposing high-level restrictions on the distributions considered---for example, maintaining Frechet or Pareto marginals while relaxing independence, or vice versa---does little to shrink these bounds.<br>
+</div>
+<div id="gravity-onesentence" style="display:none; margin-top: 4px; text-align: justify;">
+The estimates of gains from trade produced by workhorse quantitative trade models are highly sensitive to deviations from the typical maintained assumptions, such as Frechet or Pareto productivity.
 </div>
 <div id="gravity-conferences" style="display:none; margin-top: 4px;">
 <table style="width:100%; border:none; border-collapse:collapse;">
