@@ -1,6 +1,6 @@
 I am an economist studying how contracts and firm-to-firm relationships shape trade and development. My work uses a combination of field experiments, administrative data, and quantitative models.<br><br>
 
-I am currently an Academy Scholar at the [Harvard Academy for International and Area Studies](https://academy.wcfia.harvard.edu/programs/academy_scholar). I received a PhD in Economics from MIT in May 2025.
+I am currently an Academy Scholar at the [Harvard Academy for International and Area Studies](https://academy.wcfia.harvard.edu/programs/academy_scholar) (2025-2027). I received a PhD in Economics from MIT in May 2025.
 
 I am British and Canadian, which has given me a lifelong interest in international football, queuing, and apologising.<br><br>
 
