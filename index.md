@@ -16,7 +16,7 @@ I am British and Canadian, which has given me a lifelong interest in internation
   <button class="toggle-btn" onclick="toggle('senegal-conferences', this)">Recent/Upcoming Conferences</button>
 </p>
 <div id="senegal-abstract" style="display:none; margin-top: 4px; text-align: justify;">
-We study search and trust frictions in international sourcing, and whether the rapid growth of "social commerce" in lower-income countries can alleviate them. Guided by a dynamic model of relational contracting, we run a field experiment with 1,862 garment firms in Senegal, randomly matching them to suppliers in Türkiye (search) and varying information about supplier type (adverse selection) and incentives (moral hazard). New supplier connections expand access to foreign varieties and quality, but the additional information about supplier trustworthiness is necessary for building lasting and profitable relationships. Structural estimates imply that both adverse selection and moral hazard substantially limit trade.<br>
+We study search and trust frictions in international sourcing, and whether the growth of ``social commerce’’ in lower-income countries can alleviate them. We document that firms use social media as sourcing infrastructure in ways related to these frictions. Guided by a relational-contracting model, we run a field experiment with 1,862 Senegalese garment retailers, matching them to suppliers in Türkiye (search) and cross-randomizing information about types (adverse selection) and incentives (moral hazard). New matches expand access to varieties and quality, but only develop into relationships when trust frictions are alleviated. Structural estimates imply trust frictions are complements and substantially limit trade.<br>
 </div>
 <div id="senegal-onesentence" style="display:none; margin-top: 4px; text-align: justify;">
 Adverse selection and moral hazard in trade are severe and reinforce each other, but a large minority of firms in LMICs use ``social commerce'' as a decentralized, network-based way to mitigate them.<br> 
@@ -30,7 +30,7 @@ Adverse selection and moral hazard in trade are severe and reinforce each other,
   <tr><td style="padding:0;">NBER SI Development</td><td style="padding:0; text-align:right;">July 2026</td></tr>
 </table>
 </div>
-Latest Version: December 2025<br><br>
+Latest Version: June 2026<br><br>
 
 **[Quantifying the Sensitivity of Quantitative Trade Models](https://edwardwiles.github.io/storage/papers/gravity_robustness.pdf)**
 <p style="margin-top: 0; margin-bottom: 0;">with Habib Ansari and <a href="https://economics.mit.edu/people/faculty/dave-donaldson" target="_blank">Dave Donaldson</a></p>
