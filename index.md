@@ -50,7 +50,7 @@ The estimates of gains from trade produced by workhorse quantitative trade model
   <tr><td style="padding:0;">Princeton Summer Trade Workshop</td><td style="padding:0; text-align:right;">June 2026</td></tr>
 </table>
 </div>
-Latest Version: June 2026 (substantially revised!)<br><br>
+Latest Version: June 2026 (new draft coming soon!)<br><br>
 
 ---
 
