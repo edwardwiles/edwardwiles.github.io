@@ -13,7 +13,6 @@ I am British and Canadian, which has given me a lifelong interest in internation
 <p style="margin-top: 0; margin-bottom: 4px;">
   <button class="toggle-btn" onclick="toggle('senegal-abstract', this)">Abstract</button>
   <button class="toggle-btn" onclick="toggle('senegal-onesentence', this)">One Sentence Version</button>  
-  <button class="toggle-btn" onclick="toggle('senegal-conferences', this)">Recent/Upcoming Conferences</button>
 </p>
 <div id="senegal-abstract" style="display:none; margin-top: 4px; text-align: justify;">
 We study search and trust frictions in international sourcing, and whether the growth of ``social commerce’’ in lower-income countries can alleviate them. We document that firms use social media as sourcing infrastructure in ways related to these frictions. Guided by a relational-contracting model, we run a field experiment with 1,862 Senegalese garment retailers, matching them to suppliers in Türkiye (search) and cross-randomizing information about types (adverse selection) and incentives (moral hazard). New matches expand access to varieties and quality, but only develop into relationships when trust frictions are alleviated. Structural estimates imply trust frictions are complements and substantially limit trade.<br>
