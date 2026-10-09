@@ -88,7 +88,7 @@ Contract design does more than screen and incentivize a given pool of agents, as
 <div id="gw-abstract" style="display:none; margin-top: 4px; text-align: justify;">
 Most trade takes place in buyer–seller relationships that both expand gradually over time and use future surplus to sustain trade when formal enforcement is limited. We study how these relationship dynamics affect aggregate adjustment to trade shocks. Using rich firm-to-firm transactions data from India, we document that: (i) trade within a typical relationship doubles in value over its first two years, (ii) this gradual expansion is stable across the firm size, age, and product experience distributions, and (iii) relationships start meaningfully closer to maturity in states where contract enforcement is stronger. To study the aggregate consequences of these micro-level features, we develop a dynamic multi-state general-equilibrium model that embeds optimal relational contracts within a tractable Ricardian framework. Following a trade shock, adjustment is gradual because firms must build new supplier relationships, while changes in future surplus endogenously reshape the contracts supporting existing and new relationships. We estimate the model using the firm-to-firm data and use it to study the dynamics of the transition following a reduction in interstate trade costs calibrated to a major 2017 Indian economic integration reform. The short-run change in trade is only around half of the long-run change, despite the liberalization-induced loss of future surplus constraining existing own-state relationships.   <br>
 </div>
-<br><br>
+<br>
 
 **Trade Credit and Digital Records: Evidence from Cote d'Ivoire**  
 *with [Deivy Houeix](https://deivyhoueix.com/)*
