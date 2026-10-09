@@ -47,8 +47,8 @@ The estimates of gains from trade produced by workhorse quantitative trade model
 </div>
 <div id="gravity-conferences" style="display:none; margin-top: 4px;">
 <table style="width:100%; border:none; border-collapse:collapse;">
-  <tr><td style="padding:0;">Princeton Summer Trade Workshop</td><td style="padding:0; text-align:right;">June 2026</td></tr>
-  <tr><td style="padding:0;">CURE (Columbia University)</td><td style="padding:0; text-align:right;">October 2026</td></tr>
+  <tr><td style="padding:0;">CURE (Columbia Business School)</td><td style="padding:0; text-align:right;">October 2026</td></tr>
+  <tr><td style="padding:0;">NBER ITI Fall Meeting</td><td style="padding:0; text-align:right;">November 2026</td></tr>
 </table>
 </div>
 Latest Version: September 2026 <br><br>
