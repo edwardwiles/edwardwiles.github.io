@@ -33,7 +33,7 @@ Adverse selection and moral hazard in trade are severe and reinforce each other,
 Latest Version: June 2026<br><br>
 
 **[Quantifying the Sensitivity of Quantitative Trade Models](https://edwardwiles.github.io/storage/papers/CDW.pdf)**
-<p style="margin-top: 0; margin-bottom: 0;">with Habib Ansari and <a href="https://economics.mit.edu/people/faculty/dave-donaldson" target="_blank">Dave Donaldson</a></p>
+<p style="margin-top: 0; margin-bottom: 0;">with Habib Chenguiti Ansari and <a href="https://economics.mit.edu/people/faculty/dave-donaldson" target="_blank">Dave Donaldson</a></p>
 <p style="margin-top: 0; margin-bottom: 4px;">
   <button class="toggle-btn" onclick="toggle('gravity-abstract', this)">Abstract</button>
   <button class="toggle-btn" onclick="toggle('gravity-onesentence', this)">One Sentence Version</button>
