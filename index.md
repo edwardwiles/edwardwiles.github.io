@@ -36,7 +36,6 @@ Latest Version: June 2026<br><br>
 <p style="margin-top: 0; margin-bottom: 4px;">
   <button class="toggle-btn" onclick="toggle('gravity-abstract', this)">Abstract</button>
   <button class="toggle-btn" onclick="toggle('gravity-onesentence', this)">One Sentence Version</button>
-  <button class="toggle-btn" onclick="toggle('gravity-conferences', this)">Recent/Upcoming Conferences</button>
 </p>
 <div id="gravity-abstract" style="display:none; margin-top: 4px; text-align: justify;">
 Modern quantitative trade models emphasize cross-country heterogeneity in productivity across goods as the source of trade and its benefits. In workhorse versions, this heterogeneity is assumed to follow specific functional forms, such as i.i.d. Frechet or Pareto. We provide a systematic exploration of how sensitive the gains from trade estimated from these models are to relaxing this assumption---first, with a new formula for sharp bounds on gains from trade across all possible distributions, and then with a numerical characterization for the case where distributions must be close to the workhorse form.  Importantly, for each candidate distribution we ensure that its implied trade model is consistent with standard estimation methods such as the ability to match all bilateral trade data points and an exogeneity assumption. Our estimated bounds are wide, even for small departures from the canonical model: the maximal gain is about four times larger and the minimal gain is zero. Imposing high-level restrictions on the distributions considered---for example, maintaining Frechet or Pareto marginals while relaxing independence, or vice versa---does little to shrink these bounds.<br>
@@ -82,7 +81,7 @@ Contract design does more than screen and incentivize a given pool of agents, as
 ### **Selected Work in Progress**
 
 **Aggregate Consequences of Relationship Dynamics in Trade** 
-*with <a href="https://sites.google.com/view/pulakghosh/about" target="_blank">Pulak Ghosh</a></p>*
+*with <a href="https://sites.google.com/view/pulakghosh/about" target="_blank">Pulak Ghosh</a>*
 <p style="margin-top: 0; margin-bottom: 4px;">
   <button class="toggle-btn" onclick="toggle('gw-abstract', this)">Abstract</button>
 </p>
