@@ -1,4 +1,4 @@
-I am an economist studying how contracts and firm-to-firm relationships shape trade and development. My work uses a combination of field experiments, administrative data, and quantitative models.<br><br>
+I am an economist studying how contracts and firm-to-firm relationships shape trade and development. My work uses a combination of quantitative models, administrative data, and field experiments.<br><br>
 
 I am currently an Academy Scholar at the [Harvard Academy for International and Area Studies](https://academy.wcfia.harvard.edu/programs/academy_scholar) (2025-2027). I received a PhD in Economics from MIT in May 2025. I am an affiliate of <a href="https://thred.devecon.org/" target="_blank">ThReD</a>.<br><br>
 
@@ -15,10 +15,10 @@ I am British and Canadian, which has given me a lifelong interest in internation
   <button class="toggle-btn" onclick="toggle('senegal-onesentence', this)">One Sentence Version</button>  
 </p>
 <div id="senegal-abstract" style="display:none; margin-top: 4px; text-align: justify;">
-We study search and trust frictions in international sourcing, and whether the growth of ``social commerce’’ in lower-income countries can alleviate them. We document that firms use social media as sourcing infrastructure in ways related to these frictions. Guided by a relational-contracting model, we run a field experiment with 1,862 Senegalese garment retailers, matching them to suppliers in Türkiye (search) and cross-randomizing information about types (adverse selection) and incentives (moral hazard). New matches expand access to varieties and quality, but only develop into relationships when trust frictions are alleviated. Structural estimates imply trust frictions are complements and substantially limit trade.<br>
+We study search and trust frictions in international sourcing, and whether the growth of "social commerce" in lower-income countries can alleviate them. We document that firms use social media as sourcing infrastructure in ways related to these frictions. Guided by a relational-contracting model, we run a field experiment with 1,862 Senegalese garment retailers, matching them to suppliers in Türkiye (search) and cross-randomizing information about types (adverse selection) and incentives (moral hazard). New matches expand access to varieties and quality, but only develop into relationships when trust frictions are alleviated. Structural estimates imply trust frictions are complements and substantially limit trade.<br>
 </div>
 <div id="senegal-onesentence" style="display:none; margin-top: 4px; text-align: justify;">
-Adverse selection and moral hazard in trade are severe and reinforce each other, but a large minority of firms in LMICs use ``social commerce'' as a decentralized, network-based way to mitigate them.<br> 
+Adverse selection and moral hazard in trade are severe and reinforce each other, but a large minority of firms in LMICs use "social commerce" as a decentralized, network-based way to mitigate them.<br> 
 </div>
 <div id="senegal-conferences" style="display:none; margin-top: 4px;">
 <table style="width:100%; border:none; border-collapse:collapse;">
