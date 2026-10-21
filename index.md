@@ -4,9 +4,21 @@ I am currently an Academy Scholar at the [Harvard Academy for International and 
 
 I am British and Canadian, which has given me a lifelong interest in international football, queuing, and apologising.<br><br>
 
+I am on the 2026-27 academic job market.<br><br>
+
 ---
 
 ### **Working Papers**
+
+**Aggregate Consequences of Relationship Dynamics in Trade** (Job Market Paper) (draft coming soon)
+*with <a href="https://sites.google.com/view/pulakghosh/about" target="_blank">Pulak Ghosh</a>*
+<p style="margin-top: 0; margin-bottom: 4px;">
+  <button class="toggle-btn" onclick="toggle('gw-abstract', this)">Abstract</button>
+</p>
+<div id="gw-abstract" style="display:none; margin-top: 4px; text-align: justify;">
+Most trade takes place within long-term buyer-seller relationships whose value reflects past experience and, when contract enforcement is limited, the expectation of future business. We study how these relationship dynamics shape aggregate adjustment to changes in trade costs. We develop a dynamic multi-location, multi-sector Ricardian model with relationship-specific learning and relational contracts. Accumulated relationship value slows adjustment as some firms retain incumbent suppliers despite cheaper alternatives, while improved outside options can offset this by undermining the incentives needed to sustain those relationships. A property of the optimal contract that we call scale equivariance permits tractable aggregation of these micro-level dynamics. Using rich firm-to-firm transaction data from India, we establish that proportional growth within relationships is remarkably similar across firm characteristics and experience---supportive of the scale equivariance property---and varies with contract enforcement. We use these empirical results as moments to estimate the model’s learning and contracting parameters, and study a reduction in interstate trade costs calibrated to a major Indian domestic integration reform. Both dynamic mechanisms are quantitatively important: it takes 15 quarters for the economy to reach 90\% of its long-run trade elasticity, compared with 30 quarters when relationships can continue even if their contracts violate the post-shock incentive constraint.<br>
+</div>
+<br>
 
 **[Relational Frictions along the Supply Chain: Evidence from Senegalese Traders](https://edwardwiles.github.io/storage/papers/senegal_traders.pdf)**  
 <p style="margin-top: 0; margin-bottom: 0;">with <a href="https://deivyhoueix.com/" target="_blank">Deivy Houeix</a></p>
@@ -79,16 +91,6 @@ Contract design does more than screen and incentivize a given pool of agents, as
 ---
 
 ### **Selected Work in Progress**
-
-**Aggregate Consequences of Relationship Dynamics in Trade** 
-*with <a href="https://sites.google.com/view/pulakghosh/about" target="_blank">Pulak Ghosh</a>*
-<p style="margin-top: 0; margin-bottom: 4px;">
-  <button class="toggle-btn" onclick="toggle('gw-abstract', this)">Abstract</button>
-</p>
-<div id="gw-abstract" style="display:none; margin-top: 4px; text-align: justify;">
-Most trade takes place in buyer–seller relationships that both expand gradually over time and use future surplus to sustain trade when formal enforcement is limited. We study how these relationship dynamics affect aggregate adjustment to trade shocks. Using rich firm-to-firm transactions data from India, we document that: (i) trade within a typical relationship doubles in value over its first two years, (ii) this gradual expansion is stable across the firm size, age, and product experience distributions, and (iii) relationships start meaningfully closer to maturity in states where contract enforcement is stronger. To study the aggregate consequences of these micro-level features, we develop a dynamic multi-state general-equilibrium model that embeds optimal relational contracts within a tractable Ricardian framework. Following a trade shock, adjustment is gradual because firms must build new supplier relationships, while changes in future surplus endogenously reshape the contracts supporting existing and new relationships. We estimate the model using the firm-to-firm data and use it to study the dynamics of the transition following a reduction in interstate trade costs calibrated to a major 2017 Indian economic integration reform. The short-run change in trade is only around half of the long-run change, despite the liberalization-induced loss of future surplus constraining existing own-state relationships.<br>
-</div>
-<br>
 
 **Trade Credit and Digital Records: Evidence from Cote d'Ivoire**  
 *with [Deivy Houeix](https://deivyhoueix.com/)*
