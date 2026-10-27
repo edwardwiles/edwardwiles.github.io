@@ -11,7 +11,7 @@ I am on the 2026-27 academic job market.<br><br>
 ### **Working Papers**
 
 **[Aggregate Consequences of Relationship Dynamics in Trade](https://edward-wiles.com/storage/papers/relationship_dynamics.pdf)** (Job Market Paper) 
-<p style="margin-top: 0; margin-bottom: 0;">with <a href="https://sites.google.com/view/pulakghosh/about" target="_blank">Pulak Ghosh</a>
+<p style="margin-top: 0; margin-bottom: 0;">with <a href="https://sites.google.com/view/pulakghosh/about" target="_blank">Pulak Ghosh</a></p>
 <p style="margin-top: 0; margin-bottom: 4px;">
   <button class="toggle-btn" onclick="toggle('gw-abstract', this)">Abstract</button>
   <button class="toggle-btn" onclick="toggle('gw-onesentence', this)">One Sentence Version</button>  
