@@ -68,7 +68,7 @@ Latest Version: September 2026 <br><br>
 ### **Publications**
 
 **[Losing Prosociality in the Quest for Talent? Sorting, Selection, and Productivity in the Delivery of Public Services](https://edwardwiles.github.io/storage/papers/LosingProsociality.pdf)**  
-*with [Nava Ashraf](https://navaashraf.com/), [Oriana Bandiera](https://www.orianabandiera.net/), and [Scott S. Lee](https://my.vanderbilt.edu/slee/)*  
+with [Nava Ashraf](https://navaashraf.com/), [Oriana Bandiera](https://www.orianabandiera.net/), and [Scott S. Lee](https://my.vanderbilt.edu/slee/)  
 *American Economic Review 2020, 110(5): 1355–1394*
 <p style="margin-top: 0; margin-bottom: 4px;">
   <button class="toggle-btn" onclick="toggle('abdl-abstract', this)">Abstract</button>
@@ -93,7 +93,7 @@ Contract design does more than screen and incentivize a given pool of agents, as
 ### **Selected Work in Progress**
 
 **Trade Credit and Digital Records: Evidence from Cote d'Ivoire**  
-*with [Deivy Houeix](https://deivyhoueix.com/)*
+with [Deivy Houeix](https://deivyhoueix.com/)
 <p style="margin-top: 0; margin-bottom: 4px;">
   <button class="toggle-btn" onclick="toggle('hw-trade-credit-abstract', this)">Abstract</button>
 </p>
