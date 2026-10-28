@@ -22,7 +22,7 @@ Most trade takes place within long-term buyer-seller relationships whose value r
 <div id="gw-onesentence" style="display:none; margin-top: 4px; text-align: justify;">
 Firm-to-firm relationship dynamics are remarkably consistent throughout the economy, can be tractably incorporated into quantitative trade models, and generate slow aggregate adjustment to trade shocks.<br> 
 </div>
-<br>
+Latest Version: October 2026<br><br>
 
 **[Relational Frictions along the Supply Chain: Evidence from Senegalese Traders](https://edwardwiles.github.io/storage/papers/senegal_traders.pdf)**  
 <p style="margin-top: 0; margin-bottom: 0;">with <a href="https://deivyhoueix.com/" target="_blank">Deivy Houeix</a></p>
